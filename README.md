@@ -126,14 +126,17 @@ Open `http://localhost:8501` in your browser.
 
 ## 📸 App Screenshots
 
-### Legitimate Transaction Detection
-The app correctly identifies normal transactions as safe with high confidence.
+### 🛡️ Dashboard — Hero Page
+![Hero Page](screenshots/hero_page.png)
 
-### Fraudulent Transaction Detection  
-Real fraud patterns trigger the alert system with 99.99%+ confidence.
+### ✅ Legitimate Transaction Detection
+![Legitimate Result](screenshots/legitimate_result.png)
 
-### Manual Input with Presets
-Pre-built demo presets allow quick demonstration of fraud vs legitimate detection.
+### 🚨 Fraudulent Transaction Detection
+![Fraud Result](screenshots/fraud_result.png)
+
+### ✏️ Manual Input with Demo Presets
+![Manual Presets](screenshots/manual_presets.png)
 
 ---
 
@@ -159,3 +162,4 @@ Pre-built demo presets allow quick demonstration of fraud vs legitimate detectio
 ## 📜 License
 
 This project is for educational purposes as part of the GUVI Data Science curriculum.
+
